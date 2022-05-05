@@ -1,5 +1,7 @@
 Welcome to the super cool website with super cool games!
 
+[Slope](https://kilevfx.github.io/pugn/Slope)
+
 [Subway Surfers](https://kilevfx.github.io/pugn/SS)
 
 [Geometry dash](https://kilevfx.github.io/pugn/GD)
